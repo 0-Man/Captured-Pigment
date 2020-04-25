@@ -1,0 +1,2 @@
+# Captured-Pigment
+This is a game I created for a Unity 1 class, working with a team over telecommunication lead most of us to procrastinate, so the total realistic hours worked on this game is about 1-2 days (not including asset creation). We created the a simple movement system for a 3D modeled character with actionable animations using Unity's new input system.… https://0-man.itch.io/captured-pigment
